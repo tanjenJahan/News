@@ -1,0 +1,63 @@
+.heading{
+	background-color: none;
+	width:100%;
+	display:inline-block;
+	margin:10px;
+	padding:10px;
+	color: white;
+	
+}
+.logo{
+	float:left;
+ 
+	
+}
+.menu ul{
+	
+	color:white;
+    background-color: purple;
+    padding:20px;
+    margin:50px;
+    float:right;
+
+
+
+
+}
+.menu ul li{
+	list-style-type: : none;
+	font-size: 20px;
+	width:40px;
+	border:1px solid gray;
+	
+	margin:30px;
+	padding:5px;
+	display: inline;
+
+
+}
+
+.news{
+	width:100%;
+	float:left;
+	
+
+}
+.game{
+background-color: linen;
+width:400px;
+margin:10px;
+padding:10px;
+float:left;
+border:1px solid linen;
+}
+.game h1{
+	color:red;
+	text-align: center;
+}
+.game p{
+	color: purple;
+
+}
+
+
